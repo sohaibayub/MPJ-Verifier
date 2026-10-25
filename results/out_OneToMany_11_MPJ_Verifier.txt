@@ -1,0 +1,16 @@
+JavaPathfinder core system v8.0 (rev 2+) - (C) 2005-2014 United States Government. All rights reserved.
+====================================================== system under test
+MPJ_Express_Model.main("11","OneToMany")
+====================================================== search started: 10/24/26 11:25 PM
+====================================================== results
+no errors detected
+====================================================== statistics
+elapsed time:       00:00:06
+states:             new=3057,visited=10838,backtracked=13895,end=9
+search:             maxDepth=22,constraints=0
+choice generators:  thread=3057 (signal=0,lock=1,sharedRef=0,threadApi=0,reschedule=3056), data=0
+heap:               new=217713,released=90065,maxLive=1189,gcCycles=13895
+instructions:       15652562
+max memory:         1054MB
+loaded code:        classes=83,methods=1855
+====================================================== search finished: 10/24/26 11:26 PM

@@ -1,0 +1,16 @@
+JavaPathfinder core system v8.0 (rev 2+) - (C) 2005-2014 United States Government. All rights reserved.
+====================================================== system under test
+MPJ_Express_Model.main("7","MPJPi")
+====================================================== search started: 10/24/26 11:30 PM
+====================================================== results
+no errors detected
+====================================================== statistics
+elapsed time:       00:00:16
+states:             new=13701,visited=5039,backtracked=18740,end=5040
+search:             maxDepth=9,constraints=0
+choice generators:  thread=13701 (signal=0,lock=1,sharedRef=0,threadApi=0,reschedule=13700), data=0
+heap:               new=278310,released=408297,maxLive=1026,gcCycles=18740
+instructions:       84757585
+max memory:         683MB
+loaded code:        classes=83,methods=1855
+====================================================== search finished: 10/24/26 11:31 PM

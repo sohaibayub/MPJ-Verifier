@@ -1,0 +1,5 @@
+target = MPJ_Express_Model
+target.args = 9,RunningAverage
+classpath = /sessions/rcw-01f4j1pnb2mdvcyw3cqamko3/jpfrun/exp/bin
+listener = gov.nasa.jpf.listener.MPJ_Verifier
+report.console.property_violation=error,statistics

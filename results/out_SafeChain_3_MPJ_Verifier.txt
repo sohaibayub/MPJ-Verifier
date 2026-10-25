@@ -1,0 +1,16 @@
+JavaPathfinder core system v8.0 (rev 2+) - (C) 2005-2014 United States Government. All rights reserved.
+====================================================== system under test
+MPJ_Express_Model.main("3","SafeChain")
+====================================================== search started: 10/24/26 11:42 PM
+====================================================== results
+no errors detected
+====================================================== statistics
+elapsed time:       00:00:00
+states:             new=14,visited=4,backtracked=18,end=2
+search:             maxDepth=6,constraints=0
+choice generators:  thread=13 (signal=0,lock=1,sharedRef=0,threadApi=0,reschedule=12), data=0
+heap:               new=2425,released=175,maxLive=1017,gcCycles=18
+instructions:       17510
+max memory:         75MB
+loaded code:        classes=83,methods=1855
+====================================================== search finished: 10/24/26 11:42 PM

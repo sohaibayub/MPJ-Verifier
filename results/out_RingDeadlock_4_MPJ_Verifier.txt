@@ -1,0 +1,17 @@
+JavaPathfinder core system v8.0 (rev 2+) - (C) 2005-2014 United States Government. All rights reserved.
+====================================================== system under test
+MPJ_Express_Model.main("4","RingDeadlock")
+====================================================== search started: 10/24/26 11:42 PM
+Deadlock (unsafe send): cycle of blocked sends 3 -> 0 -> 1 -> 2 -> 3
+====================================================== results
+no errors detected
+====================================================== statistics
+elapsed time:       00:00:00
+states:             new=5,visited=0,backtracked=0,end=0
+search:             maxDepth=5,constraints=0
+choice generators:  thread=5 (signal=0,lock=1,sharedRef=0,threadApi=0,reschedule=4), data=0
+heap:               new=1080,released=27,maxLive=1039,gcCycles=5
+instructions:       8485
+max memory:         59MB
+loaded code:        classes=82,methods=1854
+====================================================== search finished: 10/24/26 11:42 PM

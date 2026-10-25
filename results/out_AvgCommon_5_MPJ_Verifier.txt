@@ -1,0 +1,23 @@
+JavaPathfinder core system v8.0 (rev 2+) - (C) 2005-2014 United States Government. All rights reserved.
+====================================================== system under test
+MPJ_Express_Model.main("5","AvgCommon")
+====================================================== search started: 10/24/26 11:43 PM
+Final Average:4.5
+Final Average:3.75
+Final Average:3.1875
+Final Average:2.8125
+Final Average:4.3125
+Final Average:3.1875
+Final Average:2.8125
+====================================================== results
+no errors detected
+====================================================== statistics
+elapsed time:       00:00:00
+states:             new=72,visited=59,backtracked=131,end=7
+search:             maxDepth=12,constraints=0
+choice generators:  thread=71 (signal=0,lock=1,sharedRef=0,threadApi=0,reschedule=70), data=0
+heap:               new=5623,released=1464,maxLive=1142,gcCycles=131
+instructions:       172587
+max memory:         106MB
+loaded code:        classes=92,methods=1931
+====================================================== search finished: 10/24/26 11:43 PM
